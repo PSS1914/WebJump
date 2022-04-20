@@ -4,10 +4,14 @@
 
 ℹ️ - Como preparar
 
-[x] - Instale robotframework
+[x] - Instale robotframework    
+
 [x] - Instale o robotframework-browser
+
 [x] - Instale o Python 3.7 ou superior
+
 [x] - Instale o Node.js 14.15 ou superior
+
 [x] - Instalar o Git
 
 ℹ️ - Como executar
