@@ -1,0 +1,1 @@
+robot -d ./logs tests/WebJump.robot
