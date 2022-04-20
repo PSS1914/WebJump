@@ -6,7 +6,7 @@
 
 [x] - Instale robotframework    
 
-[x] - Instale o robotframework-browser
+[x] - Instale a lib robotframework-browser
 
 [x] - Instale o Python 3.7 ou superior
 
